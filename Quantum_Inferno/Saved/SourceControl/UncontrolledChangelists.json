@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Apex1/Documents/Unreal Projects/Quantum_Inferno_Repo/Quantum_Inferno/Content/TopDown/Input/Actions/IA_Rooted.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/Quantum_Inferno_Repo/Quantum_Inferno/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/Apex1/Documents/Unreal Projects/Quantum_Inferno_Repo/Quantum_Inferno/Content/TopDown/Input/IMC_Default.uasset"
+			]
+		}
+	]
+}
